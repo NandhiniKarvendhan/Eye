@@ -1,5 +1,9 @@
 # Eye
 
+## Exercise on eyes
+
+<img src= "oneeye.png" width='300'/>
+
 The mouse movement event is used to update the position of the "eye" element displayed on the page.
 
 1. Roadmap of future improvements:
