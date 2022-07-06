@@ -19,7 +19,9 @@ coordinates to update the eyes position dynamically.
 
 3. Move the mouse across the page, eyes will automatically follow the mouse movement.
 
-## Roadmap of future improvements: Responsive support
+## Roadmap of future improvements:
+
+Responsive support
 
 ## License information:
 
