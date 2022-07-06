@@ -11,9 +11,17 @@ update the position of the "eye" element displayed on the page. To
 achieve this, we should detect the cursor position, store its
 coordinates to update the eyes position dynamically.
 
-1. Roadmap of future improvements: Responsive support
+## How to run
 
-2. License information:
+1. Download or clone this repository.
+
+2. Open index.html file in your browser.
+
+3. Move the mouse across the page, eyes will automatically follow the mouse movement.
+
+## Roadmap of future improvements: Responsive support
+
+## License information:
 
 MIT License
 
