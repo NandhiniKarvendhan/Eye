@@ -1,15 +1,13 @@
 # Eye
 
-## Exercise on eyes
-
-<img src= "oneeye.png" width='300'/>
-
 In Eye project, we are creating a web page with two eyes that follow
 your mouse movement.In JavaScript, events are actions that happen on a
 web page. In this project we are using 'mousemove', the mouse event to
 update the position of the "eye" element displayed on the page. To
 achieve this, we should detect the cursor position, store its
 coordinates to update the eyes position dynamically.
+
+## [Demo](https://nandhinikarvendhan.github.io/Eye/)
 
 ## How to run
 
