@@ -1,7 +1,7 @@
 # Eye
 
 In Eye project, we are creating a web page with two eyes that follow
-your mouse movement.In JavaScript, events are actions that happen on a
+your mouse movement. In JavaScript, events are actions that happen on a
 web page. In this project we are using 'mousemove', the mouse event to
 update the position of the "eye" element displayed on the page. To
 achieve this, we should detect the cursor position, store its
@@ -25,7 +25,7 @@ Responsive support
 
 MIT License
 
-Copyright (c) 2022 Nandhini K
+Copyright (c) 2023 Nandhini K
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
