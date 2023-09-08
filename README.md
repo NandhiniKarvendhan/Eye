@@ -17,6 +17,11 @@ coordinates to update the eyes position dynamically.
 
 3. Move the mouse across the page, eyes will automatically follow the mouse movement.
 
+## Technologies
+1. HTML
+2. CSS
+3. Javascript 
+
 ## Roadmap of future improvements:
 
 Responsive support
